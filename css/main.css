@@ -1,0 +1,13 @@
+input[type="textarea"]{
+	min-width: 100%;
+	/*min-height: 100px;*/
+	overflow: auto;
+
+}
+
+textarea{
+	min-width: 100%;
+	/*min-height: 100px;*/
+	overflow: auto;
+
+}

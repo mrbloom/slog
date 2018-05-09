@@ -72,6 +72,7 @@ split_text = (txt) ->
   console.log(i+" . "+new_txt);
   return new_txt;
 
+
 addElement = (txt,element_name) -> 
   # // create a new div element 
   newDiv = document.createElement("div"); 
